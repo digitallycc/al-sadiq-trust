@@ -866,3 +866,7 @@ ul.pattern .color6 {
         display: none
     }
 }
+#about {
+  padding-top: 15px !important;
+  padding-bottom: 30px !important;
+}
