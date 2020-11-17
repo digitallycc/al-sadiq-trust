@@ -408,10 +408,29 @@ button:focus {
 /*===========================
         6.SERVICES
 =============================*/
+.services-boxes2 {
+    border: 1px solid #e8e8e8;
+    height: auto;
+}
+
+.services-boxes2 .services-boxes1-icon i {
+    font-size: 44px;
+}
+
+.services-boxes2 .services-title-border {
+    height: 2px;
+    width: 40px;
+    margin: 15px auto;
+    transition: all 0.5s;
+}
+
+.services-boxes2:hover .services-title-border {
+    width: 60px;
+}
 
 .services-boxes1 {
     border: 1px solid #e8e8e8;
-    height: 415px;
+    height: 510px;
 }
 
 .services-boxes1 .services-boxes1-icon i {
