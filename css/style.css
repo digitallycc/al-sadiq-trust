@@ -865,8 +865,36 @@ ul.pattern .color6 {
     #color-switcher {
         display: none
     }
+
 }
+
+@media (max-width: 450px) {
+  .services-boxes3 {
+      height: 95% !important;
+  }
+  .services-boxes4 {
+      height: 150px !important;
+  }
+}
+@media (max-width: 1024px) {
+  .services-boxes3 {
+      height: 95% !important;
+  }
+  .services-boxes4 {
+      height: 95% !important;
+  }
+}
+
 #about {
   padding-top: 15px !important;
   padding-bottom: 30px !important;
+}
+.services-boxes3 {
+    border: 1px solid #e8e8e8;
+    height: 690px;
+}
+
+.services-boxes4 {
+    border: 1px solid #e8e8e8;
+    height: 690px;
 }
