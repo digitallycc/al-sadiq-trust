@@ -6,13 +6,13 @@
 .custom-nav.stickyadd .navbar-nav li a:active,
 .custom-nav.stickyadd .navbar-nav li.active a,
 .about-social li a:hover {
-    color: #006400 !important;
+    color: #1A3E6E !important;
 }
 
 .btn-custom,
 .form-kerri .form-control:focus,
 .about-social li a:hover {
-    border-color: #006400;
+    border-color: #1A3E6E;
 }
 
 .btn-custom,
@@ -21,7 +21,7 @@
 .owl-theme .owl-controls .owl-page span,
 .work_menu a.active,
 .work_menu a:hover {
-    background-color: #006400;
+    background-color: #1A3E6E;
 }
 
 .btn-custom:hover,
@@ -33,8 +33,8 @@
 .btn-custom:focus,
 .btn-custom:hover,
 .open > .dropdown-toggle.btn-custom {
-    background-color: #006400;
-    border-color: #006400;
+    background-color: #1A3E6E;
+    border-color: #1A3E6E;
 }
 
 .white {
@@ -54,7 +54,7 @@
 }
 
 .g {
-  color: #006400;
+  color: #1A3E6E;
 }
 
 .black {
@@ -73,13 +73,4 @@
     position: relative;
     border-bottom: 1px solid #eee;
     font-size: 13px;
-}
-
-.carousel-item h1 {
-  position: absolute;
-  margin: 0;
-  color: white;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
 }
