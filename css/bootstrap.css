@@ -478,7 +478,7 @@ mark,
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #006400;
+  background-color: #1A3E6E;
   border: 1px solid #fff;
   border-radius: 0.25rem;
   max-width: 100%;
@@ -6436,7 +6436,6 @@ a.close.disabled {
   bottom:0;
   left:0;
   right:0;
-  background: rgba(0,0,0,0.5);
 }
 
 .carousel-item {
